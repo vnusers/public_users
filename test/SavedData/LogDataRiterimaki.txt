@@ -1,0 +1,2 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+4	Images/01/small3.zip	4.570001	0	-7.450009	-245.9985,0,0	130	3	4

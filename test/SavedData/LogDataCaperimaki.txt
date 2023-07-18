@@ -1,0 +1,2 @@
+title	uniqueCode	path	targetPos
+lekking|https://virtualion.github.io/erimaki/lekking.html	10	/images/lekking.png	-56.3,26.4015,30.06808

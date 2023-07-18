@@ -1,0 +1,7 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/01/001.png	-58.5,52.5,60	0,0,1	0,1,0	-1,0,0	20.0587	-25.815	0.2	3	none(caption)	-1:-1	5
+6	./Images/01/004.png	-58.5,52.5,60	0,0,1	0,1,0	-1,0,0	-29.93192	-26.0985	0.2	3	none(caption)	-1:-1	10
+8	./Images/01/007.png	34.93854,19.104,-8.340841	-1,0,0	0,1,0	0,0,1	0.3106926	-2.310003	0.2	5	none(caption)	5:3	14
+9	./Images/01/002.png	58.5,37.5,60	0,0,-1	0,1,0	1,0,0	-33.37064	-10.5	0.2	4	none(caption)	-1:-1	15
+10	./Images/01/003.png	58.5,37.5,60	0,0,-1	0,1,0	1,0,0	26.09837	-10.5	0.2	4	none(caption)	-1:-1	16
+11	./Images/01/8252622424_546cf09eea_o.jpg	0,37.5,118.5	1,0,0	0,1,0	0,0,1	-25.90705	5.155499	0.2	7	none(caption)	-1:-1	17
