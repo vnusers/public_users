@@ -1,2 +1,0 @@
-id	next	previous	captioning	pos	angle	audio	launchAngle
-
