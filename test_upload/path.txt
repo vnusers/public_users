@@ -1,2 +1,2 @@
 #root=https://vnusers.github.io/public_users/test_upload/
-#prj=coffemameten
+#prj=珈琲豆絵展
