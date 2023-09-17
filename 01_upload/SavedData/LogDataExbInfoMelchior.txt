@@ -1,4 +1,4 @@
 #title=aaa
 #scale=3,2,3.5
-#color1=255,255,193
+#color1=254,255,203
 #color2=156,78,4
