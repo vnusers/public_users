@@ -1,0 +1,17 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+18	./Images/Birds in a Park.jpg	58.5,26.25,70	0,0,-1	0,1,0	1,0,0	-35.45267	-2.116499	0.2	1.7	MetalGold	-1:-1	17
+19	./Images/A Hen with Peacocks and a Turkey.jpg	-58.5,26.25,70	0,0,1	0,1,0	-1,0,0	-19.25097	0.05699907	0.2	1.8	MetalGold	-1:-1	18
+20	./Images/A Pelican and other Birds.jpg	-58.5,26.25,70	0,0,1	0,1,0	-1,0,0	33.61401	-0.3840003	0.2	1.6	MetalGold	-1:-1	19
+26	./Images/A Hunter’s Bag on a Terrace.jpg	0,26.25,138.25	1,0,0	0,1,0	0,0,1	-23.53487	-1.1715	0.2	1.9	Metal_Vertical2	-1:-1	25
+27	./Images/A Hunter’s Bag near a Tree Stump.jpg	0,26.25,138.25	1,0,0	0,1,0	0,0,1	25.27845	-1.1595	0.2	1.93	Metal_Vertical2	-1:-1	26
+31	./Images/Seven Chicks.jpg	58.5,26.25,70	0,0,-1	0,1,0	1,0,0	44.76116	-2.998501	0.2	1.1	Wooden_thin	-1:-1	30
+32	./Images/The Menagerie.jpg	58.5,26.25,70	0,0,-1	0,1,0	1,0,0	9.533227	-1.045499	0.2	1.5	MetalGold	-1:-1	31
+34	./Images/caption_hc_07.jpg	-58.5,26.25,70	0,0,1	0,1,0	-1,0,0	-37.18998	-5.203495	0.2	0.9	none(caption)	-1:-1	33
+35	./Images/caption_hc_1.jpg	-58.5,26.25,70	0,0,1	0,1,0	-1,0,0	16.14235	-5.423998	0.2	0.9	none(caption)	-1:-1	34
+36	./Images/caption_hc_04.jpg	0,26.25,138.25	1,0,0	0,1,0	0,0,1	-43.01243	-5.959495	0.2	0.85	none(caption)	-1:-1	35
+37	./Images/caption_hc_05.jpg	0,26.25,138.25	1,0,0	0,1,0	0,0,1	5.136601	-6.430511	0.2	1	none(caption)	-1:-1	36
+39	./Images/caption_hc_03.jpg	58.5,26.25,70	0,0,-1	0,1,0	1,0,0	-4.912954	-6.085496	0.2	0.6	none(caption)	-1:-1	38
+40	./Images/caption_hc_02.jpg	58.5,26.25,70	0,0,-1	0,1,0	1,0,0	34.13116	-6.054003	0.2	0.5	none(caption)	-1:-1	39
+43	./Images/caption_hondecoeter01_01.png	-37.5,30,0.5	-1,0,0	0,1,0	0,0,-1	-1.262346	0.1185008	0.2	2.5	none(caption)	-1:-1	42
+45	./Images/caption_hondecoeter01_02.png	-37.5,30,0.5	-1,0,0	0,1,0	0,0,-1	-1.273277	-8.290521	0.2	2.5	none(caption)	-1:-1	44
+48	./Images/caption_hc_06.jpg	58.5,30,70	0,0,-1	0,1,0	1,0,0	-52.62548	-10.3395	0.2	0.7	none(caption)	-1:-1	47
