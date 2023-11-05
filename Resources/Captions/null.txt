@@ -1,0 +1,2 @@
+#title=null
+#path=/images/null.png

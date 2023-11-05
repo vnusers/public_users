@@ -1,0 +1,11 @@
+NullMode|-1|This is a virtualion version 1.0
+EditMode|0|This is a virtualion version 1.0
+ViewMode|1|This is a virtualion version 1.0
+EditPic|2|PICTURE SET MODE.#Choose a picture in the lower dropdown. Choose a frame in the upper dropdown.#Left doubleclick on walls to put a picture.
+Edit3D|3|3D OBJECT SET MODE.#Choose a exhibition table in the dropdown. Left doubleclick anywhere to put a table.#Left click on the lower body of a table to move it.Left click on the surface of a table to edit objects on it.
+EditLig|4|LIGHT SET MODE.#Choose a type of lights in the dropdown. Left doubleclick on the highlighted bars to put a spotlight.
+EditPicSelected|5|PICTURE SELECTED.#Move the highlighted picture with mouse drag or up/down/right/left keys. Use input field to change scale of it.#Enter key or "apply" button to apply change. Delete key to remove the picture.
+EditDaiSelected|6|TABLE BODY SELECTED.#Move the highlighted table with mouse drag or up/down/right/left keys. Rotate buttons to rotate it. Left doubleclick on walls to make it face the wall.#Enter key or "apply" button to apply change. Delete key to remove it.
+EditDaimenSelected|7|TABLE SURFACE SELECTED.#Choose a 3D objects in the dropdown. Left doubleclick anywhere to put a 3D object on the selected table.#Left click on a vertial yellow bars to move or rotate placed 3D objects.
+EditRittaiSelected|8|3D OBJECT SELECTED.#Move the highlighted object with mouse drag or up/down/right/left keys. Use input field to change scale of it. #Use mouse wheel to change the vertical position of the object. Rotate buttons to rotate it.#Enter key or "apply" button to apply change. Delete key to remove it.
+EditLigSelected|9|SPOTLIGHT SELECTED.#Use mouse wheel or up/down/right/left keys to move it.#Enter key or "apply" button to apply change. Delete key to remove it.

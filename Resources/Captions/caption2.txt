@@ -1,0 +1,2 @@
+#title=caption2
+#path=/images/caption2.png

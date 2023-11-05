@@ -1,0 +1,14 @@
+MyModels/ball/TriLibSampleModel.obj
+MyModels/moriao1/moriao1.obj
+MyModels/moriao1/moriao1.zip
+Videos/Image_place.mp4
+Mymodels/85-cottage_obj/cottage_obj.obj
+Mymodels/22-trees_9_obj/trees9.obj
+Mymodels/miira/Scan.obj
+Mymodels/miira_photog/miira2.obj
+Mymodels/tengu_kai/Scan.obj
+Images/oogimachi.jpg
+Images/chogin.jpg
+Images/hagichogin01.jpg
+MyModels/tenpochogin.zip
+MyModels/tenpochogin/tenpochogin.obj
