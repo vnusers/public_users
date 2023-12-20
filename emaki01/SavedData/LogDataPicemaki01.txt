@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+4	./Images/anikasegigata.jpg	0,37.5,158	1,0,0	0,1,0	0,0,1	-20.40976	-7.854006	0.2	4.65	Wooden_thin	-1:-1	3
+5	./Images/nakamura_17.jpg	0,37.5,158	1,0,0	0,1,0	0,0,1	33.04718	-8.043005	0.2	5	Wooden_thin	-1:-1	4
+6	./Images/nakamura_18.jpg	0,37.5,158	1,0,0	0,1,0	0,0,1	89.51424	-8.357999	0.2	5	Wooden_thin	-1:-1	5
+7	./Images/nakamura_11.jpg	0,37.5,158	1,0,0	0,1,0	0,0,1	-87.728	-6.877507	0.2	5	Wooden	-1:-1	6
+8	./Images/nakamura_12.jpg	-146.25,37.5,80	0,0,1	0,1,0	-1,0,0	-34.25196	-6.468005	0.2	5	Wooden_thin	-1:-1	7
+9	./Images/nakamura_13.jpg	-146.25,37.5,80	0,0,1	0,1,0	-1,0,0	28.5604	-7.160996	0.2	5	Wooden_thin	-1:-1	8
+10	./Images/nakamura_14.jpg	146.25,37.5,80	0,0,-1	0,1,0	1,0,0	-23.11601	-10.563	0.2	5	Wooden_thin	-1:-1	9
+11	./Images/sadoyostudome2.jpg	146.25,37.5,80	0,0,-1	0,1,0	1,0,0	33.42447	-10.34251	0.2	4.6	Wooden_thin	-1:-1	10
+17	./Images/senzenzukai.jpg	82.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-23.67216	-10.185	0.2	4.4	Wooden_thin	-1:-1	16
+18	./Images/senzenzukai02.jpg	82.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	33.54793	-10.2165	0.2	5	Wooden_thin	-1:-1	17
+19	./Images/nakamura_8.jpg	-82.5,45,0.5	-1,0,0	0,1,0	0,0,-1	4.794801	-14.6925	0.2	4	MetalGold	-1:-1	24
